@@ -10,3 +10,4 @@ type = "add-on"
 tags = ["Animation"]
 blender_version_min = "4.2.0"
 license = ["SPDX:GPL-3.0-or-later"]
+website = "https://github.com/OEBS-OVER-ENGINEERED-BLENDER-SOLUTIONS/Scene-Retimer"
