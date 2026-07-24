@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "scene_retimer"
+version = "1.0.0"
+name = "Scene Retimer"
+tagline = "Retime whole-scene animation with tagged marker pairs"
+maintainer = "OEBS Studios"
+type = "add-on"
+
+tags = ["Animation"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
